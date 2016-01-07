@@ -10,3 +10,5 @@ $this->Blog_CreatePersonalBlog($oUser);
 <option value="0">{$aLang.topic_create_blog_personal}</option>
 ~~~
 То же самое необходимо проделать с файлом `add.tpl` в каталогах `ActionQuestion`, `ActionLink` и `ActionPhotoset`.
+
+ToDo: Убрать блок в сайдбаре "Описание блога" для персонального блога
