@@ -1,2 +1,2 @@
-http://livestreet.ru/blog/dev_documentation/113.html Описание ядра LiveStreet
-http://livestreet.ru/blog/10584.html#comment162796 Обратный порядок комментариев
+http://livestreet.ru/blog/dev_documentation/113.html ГЋГЇГЁГ±Г Г­ГЁГҐ ГїГ¤Г°Г  LiveStreet
+http://livestreet.ru/blog/10584.html#comment162796 ГЋГЎГ°Г ГІГ­Г»Г© ГЇГ®Г°ГїГ¤Г®ГЄ ГЄГ®Г¬Г¬ГҐГ­ГІГ Г°ГЁГҐГў
